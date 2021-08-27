@@ -1,9 +1,28 @@
-# ricardo
-Showcase of GitHub profile.
+<h2 align="left">
+ <abc>
+  <br>Hello! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Ricardo Deodutt :blush:<br>
+  <br> Student at Kura Labs :computer:<br>
+  <br>
+ </abc>
+  
+</h2> 
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 
 
 
+
+
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm currently a student at Kura Labs...
+- :hourglass_flowing_sand:  Exploring new tech such as Jenkins...
+- :trophy: Currently working towards a career in the DevOps field...
+- :rocket: Always ready to collaborate and help others...
+- :dart: Life Hack: Bachelors of Science in Computer Science at CUNY | York College...
+- :zap: Fun fact: I love to connect with new people and learn about their interest...<br>
 
 
 
