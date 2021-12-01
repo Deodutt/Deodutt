@@ -33,7 +33,7 @@
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />  </a>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">💻 About Me:</h2>
 
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/GY-Guyana-Flag-icon.png" width="25" height="20"/> Born in Berbice, Guyana...
 - <img src="https://miro.medium.com/max/800/0*qME_9ndLowgvyYPZ.jpeg" width="25" height="20"/> Living in Queens, New York...
